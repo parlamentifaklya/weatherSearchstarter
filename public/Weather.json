@@ -5,28 +5,28 @@
         "cityName": "Budapest",
         "temperature": 20,
         "weather": "Sunny",
-        "icon": "https://via.placeholder.com/100?text=Sunny"
+        "icon": "https://cdn-icons-png.flaticon.com/512/12446/12446270.png"
       },
       {
         "id": 2,
         "cityName": "London",
         "temperature": 15,
         "weather": "Rainy",
-        "icon": "https://via.placeholder.com/100?text=Rainy"
+        "icon": "https://cdn-icons-png.flaticon.com/512/4388/4388835.png"
       },
       {
         "id": 3,
         "cityName": "New York",
         "temperature": 22,
         "weather": "Cloudy",
-        "icon": "https://via.placeholder.com/100?text=Cloudy"
+        "icon": "https://cdn-icons-png.flaticon.com/512/7084/7084486.png"
       },
       {
         "id": 4,
         "cityName": "Tokyo",
         "temperature": 25,
         "weather": "Sunny",
-        "icon": "https://via.placeholder.com/100?text=Sunny"
+        "icon": "https://cdn-icons-png.flaticon.com/512/12446/12446270.png"
       }
     ]
   }
